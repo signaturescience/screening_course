@@ -5,7 +5,7 @@ The repostiory contains materials to support the online version of a biosecurity
 Course participants are encouraged to work through the following online course materials at their own pace:
 
 - Video Lecture #1: Course Introduction by Dr. Krista Ternus, Signature Science
-    - [Pre-course survey](https://forms.gle/tpeF1SmhvYx5Sv5U9)
+    - Please fill out the [pre-course survey](https://forms.gle/tpeF1SmhvYx5Sv5U9) before beginning the course.
 
 - Video Lecture #2: [Relevance of Sequence Screening to the BioMADE Community](https://www.youtube.com/watch?v=Ycl5JJLS4Qc) by Dr. Beth Vitalis, 4S Director at BioMADE
 
@@ -30,6 +30,6 @@ Course participants are encouraged to work through the following online course m
 - Video Lecture #10: [Future Directions](https://www.youtube.com/watch?v=epZVIHqIB5M) by Dr. Beth Vitalis, 4S Director at BioMADE
 
 - Video Lecture #11: Course Conclusion by Dr. Krista Ternus, Signature Science
-    - [Post-course survey](https://forms.gle/gc7sAKKmMmKVi1DF6)
+    - Please fill out the [post-course survey](https://forms.gle/gc7sAKKmMmKVi1DF6) after completing the course. Thank you!
   
 Please email Dr. Krista Ternus with any questions or concerns: kternus@signaturescience.com
