@@ -21,7 +21,7 @@ Course participants are encouraged to work through the following online course m
 
 - Video Lecture #6: [What Are “Bad” Sequences?](https://www.youtube.com/watch?v=DcceF6LxTgc) by Dr. Gene Godbold, Signature Science
 
-- Video Lecture #7: SeqScreen Software Overview by Dr. Todd Treangen, Rice University
+- Video Lecture #7: [SeqScreen Software Overview](https://www.youtube.com/watch?v=34_d7DtJRZU&list=PLiLmmc_-cqRJqEZERElniUL4EDnECpsxV&index=9) by Dr. Todd Treangen, Rice University
 
 - Video Lecture #8: Known Test Sequences by Dr. Krista Ternus, Signature Science
 
