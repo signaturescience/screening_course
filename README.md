@@ -18,8 +18,10 @@ Course participants are encouraged to work through the following online course m
     - Video Lecture #4d: [False Negatives](https://www.youtube.com/watch?v=wuQHlSF5BbE)
 
 - Video Lecture #5: Alignment to Biothreats by Dr. Krista Ternus, Signature Science
+    - Video Lecture #5a: Alignment to Biothreats - Presentation
+    - Video Lecture #5b: Alignment to Biothreats - SeqScreen "SeqMapper Workflow" Results
 
-- Video Lecture #6: [What Are “Bad” Sequences?](https://www.youtube.com/watch?v=DcceF6LxTgc) by Dr. Gene Godbold, Signature Science
+-  Video Lecture #6: [What Are “Bad” Sequences?](https://www.youtube.com/watch?v=DcceF6LxTgc) by Dr. Gene Godbold, Signature Science
 
 - Video Lecture #7: [SeqScreen Software Overview](https://www.youtube.com/watch?v=34_d7DtJRZU&list=PLiLmmc_-cqRJqEZERElniUL4EDnECpsxV&index=9) by Dr. Todd Treangen, Rice University
 
