@@ -1,0 +1,1 @@
+seqscreen --fasta input_files/biomade/single_gene_seqs.fasta --sensitive --blastn --includecc --hmmscan --online --databases /data/projects/microbial_projects/s2fast/SeqScreenDB_23.3/ --threads 20 --report_prefix --working outputs/single_gene_seqs_sensitive
