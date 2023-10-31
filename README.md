@@ -1,10 +1,10 @@
 # Biosecurity Sequence Screening Training Course for Bioengineers 
 
-The repostiory contains materials to support the online version of a biosecurity sequence screening training course for bioengineers, which was partially funded by [BioMADE](https://www.biomade.org/biosecurity-training-course) and developed by [Signature Science](https://www.signaturescience.com/press/biomade_training_award/), [Aclid](https://www.aclid.bio/), and the [Treangen Lab](https://www.treangenlab.com/) at Rice University. The views and conclusions contained herein are those of the authors and should not be interpreted as endorsements by the U.S. Government.
+The repostiory contains materials to support the online version of a biosecurity sequence screening training course for bioengineers, which was partially funded by [BioMADE](https://www.biomade.org/biosecurity-training-course) and developed by [Signature Science](https://www.signaturescience.com/press/biomade_training_award/), [Aclid](https://www.aclid.bio/), and the [Treangen Lab](https://www.treangenlab.com/) at Rice University. The views and conclusions contained herein are those of the authors and should not be interpreted as endorsements by the U.S. Government. 
 
 Course participants are encouraged to work through the following online course materials at their own pace:
 
-- Video Lecture #1: Course Introduction by Dr. Krista Ternus, Signature Science
+- Video Lecture #1: [Course Introduction](https://www.youtube.com/watch?v=L0ysY9QFu44) by Dr. Krista Ternus, Signature Science
     - Please fill out the [pre-course survey](https://forms.gle/tpeF1SmhvYx5Sv5U9) before beginning the course.
 
 - Video Lecture #2: [Relevance of Sequence Screening to the BioMADE Community](https://www.youtube.com/watch?v=Ycl5JJLS4Qc) by Dr. Beth Vitalis, 4S Director at BioMADE
@@ -17,7 +17,7 @@ Course participants are encouraged to work through the following online course m
     - Video Lecture #4c: [False Positives](https://www.youtube.com/watch?v=rAzyvPW2fF8)
     - Video Lecture #4d: [False Negatives](https://www.youtube.com/watch?v=wuQHlSF5BbE)
 
-- Video Lecture #5: Alignment to Biothreat Genomes by Dr. Krista Ternus, Signature Science
+- Video Lecture #5: Alignment to Biothreats by Dr. Krista Ternus, Signature Science
 
 - Video Lecture #6: [What Are “Bad” Sequences?](https://www.youtube.com/watch?v=DcceF6LxTgc) by Dr. Gene Godbold, Signature Science
 
@@ -29,7 +29,7 @@ Course participants are encouraged to work through the following online course m
 
 - Video Lecture #10: [Future Directions](https://www.youtube.com/watch?v=epZVIHqIB5M) by Dr. Beth Vitalis, 4S Director at BioMADE
 
-- Video Lecture #11: Course Conclusion by Dr. Krista Ternus, Signature Science
+- Video Lecture #11: [Course Conclusion](https://www.youtube.com/watch?v=Bc_3xI6_b9M) by Dr. Krista Ternus, Signature Science
     - Please fill out the [post-course survey](https://forms.gle/gc7sAKKmMmKVi1DF6) after completing the course. Thank you!
   
 Please email Dr. Krista Ternus with any questions or concerns: kternus@signaturescience.com
