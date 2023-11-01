@@ -8,8 +8,10 @@ Course participants are encouraged to work through the following online course m
     - Please fill out the [pre-course survey](https://forms.gle/tpeF1SmhvYx5Sv5U9) before beginning the course.
 
 - Video Lecture #2: [Relevance of Sequence Screening to the BioMADE Community](https://www.youtube.com/watch?v=Ycl5JJLS4Qc) by Dr. Beth Vitalis, 4S Director at BioMADE
-
-- Video Lecture #3: [Screening Framework Guidance](https://www.youtube.com/watch?v=ujdkXk_JivY) by Dr. Matthew Sharkey of the U.S. Department of Health and Human Services
+    - More information about BioMADE is available on their [website](https://www.biomade.org/).
+      
+- Video Lecture #3: [Screening Framework Guidance](https://www.youtube.com/watch?v=ujdkXk_JivY) by Dr. Matthew Sharkey of the U.S. Department of Health and Human Services (HHS) Administration for Strategic Preparedness and Response (ASPR)
+    - Updated Reference Document (October 2023): [Screening Framework Guidance for Providers and Users of Synthetic Nucleic Acids](https://aspr.hhs.gov/legal/synna/Documents/SynNA-Guidance-2023.pdf)
 
 - Video Lecture #4: DNA Screening Basics by Mr. Kevin Flyangolts, Founder of Aclid
     - Video Lecture #4a: [DNA Screening Concepts](https://www.youtube.com/watch?v=ULXv5cMZaeY)
