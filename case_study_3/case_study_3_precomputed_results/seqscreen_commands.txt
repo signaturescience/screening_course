@@ -1,0 +1,5 @@
+seqscreen --fasta input_files/biomade/case_study_3.fasta --sensitive --blastn --includecc --hmmscan --online --databases /data/projects/microbial_projects/s2fast/SeqScreenDB_23.3/ --threads 20 --report_prefix --working outputs/case_study_3_sensitive
+
+seqscreen --fasta input_files/biomade/case_study_3.fasta --ont --online --databases /data/projects/microbial_projects/s2fast/SeqScreenDB_23.3/ --threads 20 --report_prefix --keep_html_ont --working outputs/case_study_3_ont
+
+seqscreen --fasta input_files/biomade/case_study_3.fasta --online --databases /data/projects/microbial_projects/s2fast/SeqScreenDB_23.3/ --threads 20 --report_prefix --working outputs/case_study_3_fast
