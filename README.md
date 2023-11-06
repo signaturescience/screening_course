@@ -29,11 +29,16 @@ Course participants are encouraged to work through the following online course m
 
 - Video Lecture #8: [Known Test Sequences](https://www.youtube.com/watch?v=K6EoB2c7r1M) by Dr. Krista Ternus, Signature Science
 
-- Video Lecture #9: Case Studies by Dr. Krista Ternus, Signature Science 
-
+- Video Lecture #9: [Case Studies](https://www.youtube.com/watch?v=_XTlJMLHvio&list=PLiLmmc_-cqRJqEZERElniUL4EDnECpsxV&index=14) by Dr. Krista Ternus, Signature Science 
+    - [Case Study #1: Chimeric sequence](https://www.youtube.com/watch?v=oqGy3PMy8e4&list=PLiLmmc_-cqRJqEZERElniUL4EDnECpsxV&index=15)
+    - [Case Study #2: Cloning vector](https://www.youtube.com/watch?v=j0ZOH_nOTwU&list=PLiLmmc_-cqRJqEZERElniUL4EDnECpsxV&index=16)
+    - Case Study #3: iGEM standard biological parts
+    - Case Study #4: Bioprospecting
+    - Case Study #5: GFP cassette sequences
+  
 - Video Lecture #10: [Future Directions](https://www.youtube.com/watch?v=epZVIHqIB5M) by Dr. Beth Vitalis, 4S Director at BioMADE
 
 - Video Lecture #11: [Course Conclusion](https://www.youtube.com/watch?v=Bc_3xI6_b9M) by Dr. Krista Ternus, Signature Science
     - Please fill out the [post-course survey](https://forms.gle/gc7sAKKmMmKVi1DF6) after completing the course. Thank you!
-  
+
 Please email Dr. Krista Ternus with any questions or concerns: kternus@signaturescience.com
