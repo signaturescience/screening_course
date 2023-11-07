@@ -34,6 +34,7 @@ Course participants are encouraged to work through the following online course m
     - [Case Study #2: Cloning vector](https://www.youtube.com/watch?v=j0ZOH_nOTwU&list=PLiLmmc_-cqRJqEZERElniUL4EDnECpsxV&index=16)
     - Case Study #3: iGEM standard biological parts
     - Case Study #4: Bioprospecting
+        - Please download the fasta file from this location (too large for GitHub): https://osf.io/v24fr
     - Case Study #5: GFP cassette sequences
   
 - Video Lecture #10: [Future Directions](https://www.youtube.com/watch?v=epZVIHqIB5M) by Dr. Beth Vitalis, 4S Director at BioMADE
