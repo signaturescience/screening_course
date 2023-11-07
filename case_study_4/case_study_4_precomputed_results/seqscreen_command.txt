@@ -1,1 +1,1 @@
-seqscreen --fasta input_files/biomade/case_study_4.fasta --online --databases /data/projects/microbial_projects/s2fast/SeqScreenDB_23.3/ --format 4 --threads 20 --report_prefix --working outputs/case_study_4_fast
+seqscreen --fasta input_files/biomade/case_study_4.fasta --online --databases SeqScreenDB_23.3/ --format 4 --threads 20 --report_prefix --working outputs/case_study_4_fast
